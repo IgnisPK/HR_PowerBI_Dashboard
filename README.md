@@ -26,7 +26,7 @@ It includes:
 - years at company by department
 - average monthly income by tenure group
 
-This page is meant to give a fast overview before going into more detailed pages.
+This page is meant to give a fast overview before going into more details.
 
 ![Executive Overview](screenshots/executive-overview.png)
 ### Income
