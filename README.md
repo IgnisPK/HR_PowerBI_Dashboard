@@ -78,14 +78,13 @@ I grouped the year-based data into clear ranges, which made it easier to compare
 
 ## What I used
 
-- Power BI
-- DAX
-- Power Query
-- calculated columns
-- measures
-- slicers
-- matrix visuals
-- grouped categories and custom sorting
+- Power BI dashboard design
+- Power Query data preparation
+- DAX measures and calculated columns
+- KPI cards and interactive slicers
+- Matrix visuals for department and role comparison
+- Grouped categories with custom sorting
+- Bar charts and scatter plots for HR analysis
 
 ## Some things I practiced in this project
 
