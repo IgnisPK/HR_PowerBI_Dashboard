@@ -86,7 +86,7 @@ I grouped the year-based data into clear ranges, which made it easier to compare
 - Grouped categories with custom sorting
 - Bar charts and scatter plots for HR analysis
 
-## A few observations from the dashboard
+## Key observations
 
 - Manager and Research Director roles show the highest average monthly income.
 - Many employees have been with the company for 5–10 years, making this one of the most visible experience groups in the dashboard.
@@ -101,6 +101,8 @@ I grouped the year-based data into clear ranges, which made it easier to compare
 
 ## Notes
 
-This is a portfolio project, so the main goal was practice: report structure, visual choices, DAX, grouping logic and presenting HR data in a clearer way.
+This project is part of my Power BI portfolio and was created to practice building a complete dashboard from an HR dataset.
 
-I’m still improving my Power BI skills, so feedback is welcome.
+My focus was on report structure, clear visual choices, DAX calculations, grouped categories, and making the data easier to compare across employee groups.
+
+Feedback is welcome.
