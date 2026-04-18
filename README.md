@@ -105,6 +105,6 @@ I used year ranges to make the page easier to read and to compare employee histo
 
 This project is part of my Power BI portfolio and was created to practice building a complete dashboard from an HR dataset.
 
-My focus was on report structure, clear visual choices, DAX calculations, grouped categories, and making the data easier to compare across employee groups.
+The goal was to create a clear Power BI report that makes HR data easier to explore and compare.
 
 Feedback is welcome.
