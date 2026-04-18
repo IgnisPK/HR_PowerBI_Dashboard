@@ -1,6 +1,8 @@
 # HR Analytics Dashboard – Power BI
 
-This is a Power BI portfolio project where I worked with an HR dataset and built a report around employee income, job satisfaction, years at company and promotion-related patterns.
+This is a Power BI project where I worked with an HR dataset and built a report around employee income, job satisfaction, years at company and promotion-related patterns.
+
+The goal was to create a dashboard that makes the data easier to explore and compare, especially across departments and job roles.  
 
 ## What I wanted to find out
 
@@ -10,7 +12,7 @@ The main questions behind the report were:
 - Which roles have the highest average monthly income?
 - How do job involvement, satisfaction, work-life balance and performance compare across departments and job roles?
 - How long do employees usually stay in the company, in their role, and with the same manager?
-- What does the distribution of years since last promotion look like?
+- What does the data show about years since last promotion? 
 
 ## Report pages
 
@@ -36,10 +38,10 @@ This page focuses on compensation.
 
 I used it to compare:
 - average and median hourly rate by department and job role
-- average monthly income vs average years at company by job role department
-- monthly income by job role
+- average monthly income by job role
+- average monthly income compared with years at company by job role  
 
-The biggest goal here was to make income differences easier to compare across roles and departments.
+This made it easier to compare income levels between roles and departments, and to see how income changes with years at the company.
 
 ![Income](screenshots/income.png)
 
@@ -60,7 +62,7 @@ I used this page to compare satisfaction, work-life balance, involvement, and pe
 
 ### Years at Company
 
-This page focus on career history.
+This page focuses on years at company, time in role, time with current manager, and years since last promotion.
 
 It includes:
 - total employees
@@ -69,10 +71,10 @@ It includes:
 - employee count by years at company
 - employee count by years in current role
 - employee count by years with current manager
-- years since last promotion
+- employee count by years since last promotion
 - years since last promotion by department
 
-I grouped the year-based data into clear ranges, which made it easier to compare years at company, time in role, and promotion history.
+I used year ranges to make the page easier to read and to compare employee history more clearly. 
 
 ![Years at Company](screenshots/years-at-company.png)
 
