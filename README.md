@@ -29,6 +29,7 @@ It includes:
 This page is meant to give a fast overview before going into more details.
 
 ![Executive Overview](screenshots/executive-overview.png)
+
 ### Income
 
 This page focuses on compensation.
@@ -41,6 +42,7 @@ I used it to compare:
 The biggest goal here was to make income differences easier to compare across roles and departments.
 
 ![Income](screenshots/income.png)
+
 ### Survey
 
 This page looks at employee experience.
@@ -55,6 +57,7 @@ It includes:
 I used this page to compare satisfaction, work-life balance, involvement, and performance across employee groups.
 
 ![Survey](screenshots/survey.png)
+
 ### Years at Company
 
 This page focus on career history.
@@ -69,8 +72,10 @@ It includes:
 - years since last promotion
 - years since last promotion by department
 
-I grouped the year-based fields into bands to better compare time at company, time in role, and promotion history.
+I grouped the year-based data into clear ranges, which made it easier to compare years at company, time in role, and promotion history.
+
 ![Years at Company](screenshots/years-at-company.png)
+
 ## What I used
 
 - Power BI
