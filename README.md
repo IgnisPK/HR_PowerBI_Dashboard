@@ -86,15 +86,6 @@ I grouped the year-based data into clear ranges, which made it easier to compare
 - Grouped categories with custom sorting
 - Bar charts and scatter plots for HR analysis
 
-## What I practiced
-
-- building a multi-page Power BI report
-- creating clear category groups, such as salary bands and years-at-company groups
-- sorting text-based groups in the correct order
-- building matrix views for easier comparison across departments and roles
-- organizing each report page around a clear topic
-- improving report titles and labels for consistency
-
 ## A few observations from the dashboard
 
 - Manager and Research Director roles show the highest average monthly income.
